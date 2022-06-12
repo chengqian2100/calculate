@@ -1,0 +1,19 @@
+{
+    "name": "chengqian2100/calculate",
+    "autoload": {
+        "psr-4": {
+            "Chengqian2100\\Calculate\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Chengqian2100\\Calculate\\Test": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
